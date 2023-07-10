@@ -14,4 +14,4 @@ Pude colocar em prática diversos conceitos de Java, como:
 - *Manipulação de Arquivos:* criando e lendo arquivos .json;
 - *Serialização/Desserialização:* usando a biblioteca GSON do google para realizar a conversão de JSON para objeto e vice-versa.
 
-Vale ressaltar que para rodar essa aplicação você deve ter o arquivo .jar da biblioteca java GSON do google instalad, para que os arquivos possam ser gerados corretamente.
+Vale ressaltar que, para rodar essa aplicação você deve ter o arquivo .jar da biblioteca java GSON do google instalada e devidamente alocada na classpath do projeto, para que o código seja compilado corretamente.
